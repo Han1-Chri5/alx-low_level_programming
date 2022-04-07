@@ -4,3 +4,4 @@ My 0x00-hello_world readme
 # 2-Script that generates the assembly code of a C code and saves it in an output file
 # 3-Script that compiles a C file and creates an executable named cisfun
 # 5-C program that prints using printf
+#6-C program that prints the size of various types
