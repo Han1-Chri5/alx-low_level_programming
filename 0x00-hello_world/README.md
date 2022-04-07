@@ -5,3 +5,4 @@ My 0x00-hello_world readme
 # 3-Script that compiles a C file and creates an executable named cisfun
 # 5-C program that prints using printf
 #6-C program that prints the size of various types
+# 7-Script that generates the Intel syntax of a C code and save it in an output file
