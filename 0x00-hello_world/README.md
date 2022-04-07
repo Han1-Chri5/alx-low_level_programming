@@ -6,3 +6,4 @@ My 0x00-hello_world readme
 # 5-C program that prints using printf
 #6-C program that prints the size of various types
 # 7-Script that generates the Intel syntax of a C code and save it in an output file
+# 8-C program that prints an exacty phrase followed by a new line to the stderr
