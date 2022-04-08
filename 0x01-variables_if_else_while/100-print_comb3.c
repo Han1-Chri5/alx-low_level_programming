@@ -1,31 +1,37 @@
 #include <stdio.h>
+
 /**
  * main - main block
- * Prints numbers from 0 to 99.
+ * Prints numbers between 00 to 99
  * Numbers are separated by commas and a space
- * Does not use variable of type char
  * Uses putchar function only five times
+ * Does not use variable of type char
  * Return: 0
  */
 int main(void)
 {
-	int i, j, k;
+	int i, j;
 
-	for (i = 0; i < 89; i++)
+	i = 48;
+	j = 48;
+
+	while (j < 58)
 	{
-		j = i / 10;
-		k = i % 10;
-
-		putchar(j + '0');
-		putchar(k + '0');
-
-		if (i < 89)
+		i = 48;
+		while (i < 58)
 		{
-			putchar(44);
-			putchar(32);
+			putchar(j);
+			putchar(i);
+			if (i == 57 && j == 57)
+			{
+				break;
+			}
+			putchar(',');
+			putchar(' ');
+			i++;
 		}
+		j++;
 	}
 	putchar('\n');
-
 	return (0);
 }
