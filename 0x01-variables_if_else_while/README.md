@@ -11,3 +11,4 @@ My 0x01-variables_if_else_while readme
 # 8-Program that prints all the numbers of base 16 in lowercase
 # 9-Program that prints all possible combinations of single-digit numbers
 # 10-Program that prints all possible different combinations of two digits
+# 11-Program that prints all possible different combinations of three digits
