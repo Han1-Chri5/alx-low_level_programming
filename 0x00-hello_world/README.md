@@ -7,3 +7,5 @@ My 0x00-hello_world readme
 #6-C program that prints the size of various types
 # 7-Script that generates the Intel syntax of a C code and save it in an output file
 # 8-C program that prints an exacty phrase followed by a new line to the stderr
+# 1-Script that compiles a C file with no link
+# C program that prints a phrase using puts
