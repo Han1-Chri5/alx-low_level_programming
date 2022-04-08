@@ -12,3 +12,4 @@ My 0x01-variables_if_else_while readme
 # 9-Program that prints all possible combinations of single-digit numbers
 # 10-Program that prints all possible different combinations of two digits
 # 11-Program that prints all possible different combinations of three digits
+# 12-Program that prints all possible combinations of two-digit numbers
