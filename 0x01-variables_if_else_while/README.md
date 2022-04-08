@@ -6,3 +6,4 @@ My 0x01-variables_if_else_while readme
 # 3-Program that prints the alphabet in lowercase and uppercase
 # 4-Program that prints the alphabet in lowercase expert q and e
 # 5-Program that prints all single digit numbers of base 10 from 0
+# 6-Program that prints all single digits of base 10 from 0 using putchar twice
