@@ -10,3 +10,4 @@ My 0x0s-functions_nested_loops readme
 # 9-Program that prints the 9x table from 0
 # 10-Program that adds two integers and returns the result
 # 11-Program that prints all natural numbers from n to 98
+# 12-Program that prints the n times table starting with 0
