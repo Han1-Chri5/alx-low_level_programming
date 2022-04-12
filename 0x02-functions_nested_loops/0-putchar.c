@@ -1,4 +1,4 @@
-#include "alx.h"
+#include <unistd.h>
 /**
  * main - main block
  * Prints _putchar followed by a new line
