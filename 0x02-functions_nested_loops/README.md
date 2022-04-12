@@ -5,3 +5,4 @@ My 0x0s-functions_nested_loops readme
 # 3-Program that checks for a lowercase character and returns a value
 # 4-Program that checks for alphabetic character using _isalpha
 # 6-Program that computes the absolute value of an integer
+# 7-Program that prints the last digit of a number
