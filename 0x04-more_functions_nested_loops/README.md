@@ -11,3 +11,4 @@ My 0x04-more_functions_nested_loops readme
 # 9-Program that prints Fizz-Buzz
 # 10-Function that prints a triangle followed by a new line
 # 11-Program that finds and prints the largest prime factor of 612852475143
+12-Function that prints an integer using void print_number(int n)
