@@ -9,3 +9,4 @@ My 0x04-more_functions_nested_loops readme
 # 7-Function that draws a diagonal line
 # 8-Function that prints a square followed by a new line
 # 9-Program that prints Fizz-Buzz
+# 10-Function that prints a triangle followed by a new line
