@@ -6,3 +6,4 @@ My 0x04-more_functions_nested_loops readme
 # 4-Function that prints the numbers 0 to 9
 # 5-Function that prints 10 times the numbers from 0 to 14
 # 6-Function that draws a straight line in the terminal
+# 7-Function that draws a diagonal line
