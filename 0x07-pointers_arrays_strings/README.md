@@ -7,3 +7,5 @@ My 0x07-pointers_arrays_strings readme
 # 5-function that locates a substring
 # 6-function that prints the chessboard
 # 7-function that prints the sum of the two diagonals of a square matrix of integers
+# 8-function that sets the value of a pointer to a char
+# 9-file that contains the password for the crackme2 executable
