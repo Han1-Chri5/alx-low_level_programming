@@ -2,6 +2,7 @@
 
 /**
  * main - prints the name of the file it was compiled from
+ * _FILE_ - expands to the name of the current input file
  * Return: 0 (SUCCESS)
  */
 
