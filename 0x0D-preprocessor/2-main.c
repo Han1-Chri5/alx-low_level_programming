@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the name of the file it was compiled from
- * _FILE_ - expands to the name of the current input file
- * Return: 0 (SUCCESS)
+ * main - Prints the name of the file program is compiled from
+ * Return: 0;
  */
 
 int main(void)
